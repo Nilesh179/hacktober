@@ -1,3 +1,3 @@
-# hacktober
+# Hacktoberfest
 
-Accepting codes for hacktoberfest2021
+Accepting codes for hacktoberfest-2020-ONE
